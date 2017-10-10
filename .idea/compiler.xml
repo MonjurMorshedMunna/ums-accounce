@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="accounce-web-service_main" target="1.8" />
+      <module name="accounce-web-service_test" target="1.8" />
+      <module name="auth-server_main" target="1.8" />
+      <module name="auth-server_test" target="1.8" />
+      <module name="ums-accounce_main" target="1.8" />
+      <module name="ums-accounce_test" target="1.8" />
+      <module name="ums-commons_main" target="1.8" />
+      <module name="ums-commons_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
