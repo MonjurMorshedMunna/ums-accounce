@@ -4,11 +4,14 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/accounce-web-ser/accounce-web-ser.iml" filepath="$PROJECT_DIR$/.idea/modules/accounce-web-ser/accounce-web-ser.iml" group="accounce-web-ser" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/accounce-web-service.iml" filepath="$PROJECT_DIR$/.idea/modules/accounce-web-service.iml" group="accounce-web-service" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/accounce-web-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/accounce-web-service_main.iml" group="accounce-web-service" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/accounce-web-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/accounce-web-service_test.iml" group="accounce-web-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/accounce-web-service/accounce-web-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/accounce-web-service/accounce-web-service_main.iml" group="accounce-web-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/accounce-web-service/accounce-web-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/accounce-web-service/accounce-web-service_test.iml" group="accounce-web-service" />
       <module fileurl="file://$PROJECT_DIR$/auth-server/auth-server.iml" filepath="$PROJECT_DIR$/auth-server/auth-server.iml" group="auth-server" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/auth-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/auth-server_main.iml" group="auth-server" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/auth-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/auth-server_test.iml" group="auth-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/auth-server/auth-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/auth-server/auth-server_main.iml" group="auth-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/auth-server/auth-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/auth-server/auth-server_test.iml" group="auth-server" />
+      <module fileurl="file://$PROJECT_DIR$/storage-node/storage-node.iml" filepath="$PROJECT_DIR$/storage-node/storage-node.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/storage-node_main.iml" filepath="$PROJECT_DIR$/.idea/modules/storage-node_main.iml" group="storage-node" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/storage-node_test.iml" filepath="$PROJECT_DIR$/.idea/modules/storage-node_test.iml" group="storage-node" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ums-accounce.iml" filepath="$PROJECT_DIR$/.idea/modules/ums-accounce.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ums-accounce_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ums-accounce_main.iml" group="ums-accounce" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ums-accounce_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ums-accounce_test.iml" group="ums-accounce" />

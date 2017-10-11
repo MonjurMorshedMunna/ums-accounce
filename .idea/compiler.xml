@@ -6,6 +6,8 @@
       <module name="accounce-web-service_test" target="1.8" />
       <module name="auth-server_main" target="1.8" />
       <module name="auth-server_test" target="1.8" />
+      <module name="storage-node_main" target="1.8" />
+      <module name="storage-node_test" target="1.8" />
       <module name="ums-accounce_main" target="1.8" />
       <module name="ums-accounce_test" target="1.8" />
       <module name="ums-commons_main" target="1.8" />

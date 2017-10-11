@@ -22,7 +22,10 @@
         <option name="gradleHome" value="$PROJECT_DIR$/../../gradle-4.2-bin/gradle-4.2" />
         <option name="modules">
           <set>
+            <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/accounce-web-service" />
+            <option value="$PROJECT_DIR$/auth-server" />
+            <option value="$PROJECT_DIR$/ums-commons" />
           </set>
         </option>
         <option name="useAutoImport" value="true" />
@@ -37,6 +40,17 @@
             <option value="$PROJECT_DIR$/accounce-web-service" />
             <option value="$PROJECT_DIR$/auth-server" />
             <option value="$PROJECT_DIR$/ums-commons" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/storage-node" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../gradle-4.2-bin/gradle-4.2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/storage-node" />
           </set>
         </option>
         <option name="useAutoImport" value="true" />
