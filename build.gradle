@@ -42,12 +42,12 @@ project(':ums-commons')
 
 project(':auth-server'){
     dependencies{
-        project(':ums-commons')
+        compile project(':ums-commons')
     }
 }
 
 project(':accounce-web-service'){
     dependencies{
-        project(':ums-commons')
+       compile project(':ums-commons')
     }
 }
